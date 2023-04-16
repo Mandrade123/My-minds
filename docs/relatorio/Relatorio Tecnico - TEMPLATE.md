@@ -1,9 +1,9 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`MY MINDS`  
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-`CURSO` 
+`Ciencia da Computação` 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -11,11 +11,13 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> 
+## Eduardo César Martins Silva
+## Gabriel Xavier Borges
+## João Victor Filardi Souza Pinto
+## Kauan Cardoso Nascimento
+##Miguel Andrade Pereira
 
 # Estrutura do Documento
 
