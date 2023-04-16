@@ -1,15 +1,9 @@
 # Informações do Projeto
 `MY MINDS`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 `Ciencia da Computação` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 ## Participantes
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Os membros do grupo são: 
 > 
@@ -17,7 +11,7 @@
 ## Gabriel Xavier Borges
 ## João Victor Filardi Souza Pinto
 ## Kauan Cardoso Nascimento
-##Miguel Andrade Pereira
+## Miguel Andrade Pereira
 
 # Estrutura do Documento
 
